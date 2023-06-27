@@ -34,5 +34,3 @@ This trivia game was developed as a personal study project and we are not curren
 ## Note
 
 Please be aware that this tic-tac-toe game is a simple project and may not include advanced features or complex logic. It was created for educational purposes only, with the goal of practicing HTML, CSS and JavaScript.
-
-Translated with www.DeepL.com/Translator (free version)
